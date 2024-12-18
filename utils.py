@@ -92,6 +92,7 @@ def save_to_csv(general_dict):
                 else None
             ),
             "Reclame Aqui Tempo Resposta": details["reclame_aqui"]["tempo_resposta"],
+            "Reclame Aqui URL": details["reclame_aqui"]["reclame_aqui_url"],
         }
         data.append(row)
 

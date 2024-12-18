@@ -33,5 +33,5 @@ def main():
     analyze()
 
 
-# main()
+main()
 analyze()

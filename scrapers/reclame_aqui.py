@@ -63,5 +63,6 @@ def scrape_reclame_aqui(url, company, driver_path):
     infos["taxa_resposta"] = get_span_first_text(spans[1])
     infos["taxa_resolucao"] = get_span_first_text(spans[5])
     infos["tempo_resposta"] = get_span_first_text(spans[6], split=False)
+    infos["reclame_aqui_url"] = url
 
     return infos
