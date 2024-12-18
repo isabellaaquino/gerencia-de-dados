@@ -1,11 +1,11 @@
-Company,Procon CNPJ,Procon Atendidas,Procon Não Atendidas,Procon Total,Procon Atendidas %,Reclame Aqui Reclamações,Reclame Aqui Taxa Resposta %,Reclame Aqui Taxa Resolução %,Reclame Aqui Tempo Resposta
-HURB TECHNOLOGIES S/A,12954744000124,814,10867,11681,6.97,111387,100.0,16.6,3 dias e 17 horas.
-123 MILHAS/MAXMILHAS/HOTMILHAS,11442110000120,515,7770,8285,6.22,55247,97.5,62.1,65 dias e 6 horas.
-ENEL ELETROPAULO,61695227000193,1328,4688,6016,22.07,37884,79.9,52.8,26 dias e 18 horas.
-BRADESCO,01701201000189,1579,3922,5501,28.7,40573,100.0,62.6,11 dias e 22 horas.
-ITAU UNIBANCO,00000776000101,1482,3880,5362,27.64,45135,100.0,70.6,3 dias e 9 horas.
-CLARO / NET / EMBRATEL / NEXTEL (AMÉRICA MÓVIL),34878543000128,2506,2309,4815,52.05,108771,0.0,,--.
-SAMSUNG ELETRONICA DA AMAZONIA LTDA,00280273000137,1171,3336,4507,25.98,25791,0.0,,--.
-IKEG,29973569000115,1420,3071,4491,31.62,7632,0.0,,--.
-SHOPEE,35635824000112,2092,2393,4485,46.64,173449,99.4,79.8,9 dias e 23 horas.
-VIVO / TELEFÔNICA,02558157000162,1697,2365,4062,41.78,102335,0.0,,--.
+Company,Procon CNPJ,Procon Atendidas,Procon Não Atendidas,Procon Total,Procon Atendidas %,Reclame Aqui Reclamações,Reclame Aqui Taxa Resposta %,Reclame Aqui Taxa Resolução %,Reclame Aqui Tempo Resposta,Reclame Aqui URL
+HURB TECHNOLOGIES S/A,12954744000124,814,10867,11681,6.97,111364,100.0,16.6,3 dias e 17 horas.,https://www.reclameaqui.com.br/empresa/hotel-urbano/
+123 MILHAS/MAXMILHAS/HOTMILHAS,11442110000120,515,7770,8285,6.22,55247,97.5,62.1,65 dias e 6 horas.,https://www.reclameaqui.com.br/empresa/123-milhas/
+ENEL ELETROPAULO,61695227000193,1328,4688,6016,22.07,37884,79.9,52.8,26 dias e 20 horas.,https://www.reclameaqui.com.br/empresa/aes-eletropaulo/
+BRADESCO,01701201000189,1579,3922,5501,28.7,40568,100.0,62.6,11 dias e 22 horas.,https://www.reclameaqui.com.br/empresa/bradesco/
+ITAU UNIBANCO,00000776000101,1482,3880,5362,27.64,45135,100.0,70.6,3 dias e 9 horas.,https://www.reclameaqui.com.br/empresa/itau/
+CLARO / NET / EMBRATEL / NEXTEL (AMÉRICA MÓVIL),34878543000128,2506,2309,4815,52.05,108770,0.0,,--.,https://www.reclameaqui.com.br/empresa/claro/
+SAMSUNG ELETRONICA DA AMAZONIA LTDA,00280273000137,1171,3336,4507,25.98,25791,0.0,,--.,https://www.reclameaqui.com.br/empresa/samsung/
+IKEG,29973569000115,1420,3071,4491,31.62,7632,0.0,,--.,https://www.reclameaqui.com.br/empresa/ikeg/
+SHOPEE,35635824000112,2092,2393,4485,46.64,173432,99.4,79.8,9 dias e 23 horas.,https://www.reclameaqui.com.br/empresa/shopee/
+VIVO / TELEFÔNICA,02558157000162,1697,2365,4062,41.78,102329,0.0,,--.,https://www.reclameaqui.com.br/empresa/vivo-celular-fixo-internet-tv/
